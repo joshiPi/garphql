@@ -1,4 +1,4 @@
-# garphql
+# nodejs-garphql server
 
 ## instructions to run locally
 
